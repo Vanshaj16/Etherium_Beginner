@@ -7,7 +7,9 @@ This Solidity program is to create a token using Solidity programming language.T
 This program is a smart contract on creating a token written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.The program contain public variables which are type state variable.There is a mapping used to get the amount of the token of the given address (address => value).There are two functions- the first function is the mint function that takes two parameters: an address and a value. The function then increases the total supply by that number and increases the balance of the “sender” address by that amount.And the second function is the burn function, which works the opposite of the mint function, as it will destroy tokens.It will take an address and value just like the mint functions.Then will deduct the value from the total supply and from the balance of the “sender”.
 
 ## Getting Started
+https://gist.github.com/Vanshaj16
 
+This is the source code to create a token.
 ### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
