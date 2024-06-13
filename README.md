@@ -11,8 +11,8 @@ https://gist.github.com/Vanshaj16
 
 This is the source code to create a token with file name Read.sol
 
-Paste the URL of gist i.e  <script src="https://gist.github.com/Vanshaj16/c48161fe6e8b2e678164ba188d604e4c.js"></script> in https://remix.ethereum.org/#version=soljson-v0.8.26+commit.8a97fa7a.js&optimize=false&runs=200&gist=
-under the section Load from gist.
+Paste the URL of gist i.e " <script src="https://gist.github.com/Vanshaj16/c48161fe6e8b2e678164ba188d604e4c.js"></script> " in https://remix.ethereum.org/#version=soljson-v0.8.26+commit.8a97fa7a.js&optimize=false&runs=200&gist=
+under the section Load from "gist" inside a contract folder.
 ### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
