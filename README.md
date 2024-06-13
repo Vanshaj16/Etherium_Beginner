@@ -8,8 +8,10 @@ This program is a smart contract on creating a token written in Solidity, a prog
 
 ## Getting Started
 https://gist.github.com/Vanshaj16
+or
+https://remix.ethereum.org/#version=soljson-v0.8.26+commit.8a97fa7a.js&optimize=false&runs=200&gist=
 
-This is the source code to create a token.
+This is the source code to create a token with file name Read.sol
 ### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
