@@ -68,4 +68,4 @@ Once the contract is deployed, insert the Account address to the address bar in 
 
 Vanshaj
 
-vanshajsen16@gamil.com
+vanshajsen16@gmail.com
